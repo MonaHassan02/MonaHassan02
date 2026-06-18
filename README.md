@@ -11,7 +11,6 @@
   </a>
 </h3>
 
----
 
 ## 👩‍💻 About Me
 <table>
@@ -43,7 +42,6 @@
 </tr>
 </table>
 
----
 
 ## 🛠️ Tech Stack
 
@@ -73,7 +71,6 @@
         <td><img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio,postman"/></td>
     </tr>
 </table>
----
 
 ## 📊 GitHub Stats
 
@@ -106,7 +103,6 @@
   />
 
 </div>
-----
 
 ## 📫 Connect With Me
 
@@ -123,7 +119,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-----
+
 <div align="center">
 
 ✨ Code • Learn • Build • Repeat ✨

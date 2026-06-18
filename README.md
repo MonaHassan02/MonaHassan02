@@ -54,11 +54,12 @@
     </tr>
 </table>
 
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-  <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+  <div style="display: flex; justify-content: center; gap: 80px; flex-wrap: wrap;">
     <img 
       src="https://github-readme-stats.vercel.app/api?username=Monahassan02&show_icons=true&theme=tokyonight"
       height="180"

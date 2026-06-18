@@ -14,30 +14,28 @@
 ---
 
 ## 👩‍💻 About Me
-
 <table>
 <tr>
 <td width="60%">
-<li>🧩 Dedicated Frontend Developer with a strong interest in creating clean, responsive, and interactive user interfaces that provide great user experiences</li>
 
-<li>🎓 Computer Science & Information Technology Graduate from the Egyptian E-Learning University (2024)</li>
+<p>🧩 Dedicated Frontend Developer with a strong interest in creating clean, responsive, and interactive user interfaces that provide great user experiences.</p>
 
-<li>🚀 Completed the Digital Egypt Pioneers Initiative (DEPI) Full Stack .NET Training</li>
+<p>🎓 Computer Science & Information Technology Graduate from the Egyptian E-Learning University (2024).</p>
 
-<li>💻 Passionate about building modern, responsive, and user-friendly web applications</li>
+<p>🚀 Completed the Digital Egypt Pioneers Initiative (DEPI) Full Stack .NET Training.</p>
 
-<li>🌱 Currently improving my skills in Frontend Development, Full Stack Development, and Software Engineering</li>
+<p>💻 Passionate about building modern, responsive, and user-friendly web applications.</p>
 
-<li>🤝 Eager to collaborate on impactful projects and contribute to innovative development teams</li>
-</ul>
+<p>🌱 Currently improving my skills in Frontend Development, Full Stack Development, and Software Engineering.</p>
 
+<p>🤝 Eager to collaborate on impactful projects and contribute to innovative development teams.</p>
 
 </td>
 
 <td width="40%" align="center">
   <img 
     src="./assets/download.gif"
-    width="250"
+    width="300"
     alt="coding girl"
   />
 </td>
@@ -51,67 +49,63 @@
 
 <table>
     <tr>
-        <td><strong>Frontend:</strong></td>
-        <td>
-            <img height="40" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap" />
-        </td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Frontend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,sass,bootstrap,tailwind,mui,jquery,figma,webpack"/></td>
     </tr>
-
     <tr>
-        <td><strong>Backend:</strong></td>
-        <td>
-            <img height="40" src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express" />
-        </td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Backend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express"/></td>
     </tr>
-
     <tr>
-        <td><strong>Database:</strong></td>
-        <td>
-            <img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb,sqlserver" />
-        </td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb"/></td>
     </tr>
-
     <tr>
-        <td><strong>Testing:</strong></td>
-        <td>
-            <img height="40" src="https://skillicons.dev/icons?i=jest" />
-        </td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Automated test:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=jest,"/></td>
     </tr>
-
     <tr>
-        <td><strong>Tools:</strong></td>
-        <td>
-            <img height="40" src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,figma" />
-        </td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Tools:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio,postman"/></td>
     </tr>
 </table>
-
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=Monahassan02&show_icons=true&theme=tokyonight"
-  height="180"
-/>
+  <!-- TOP ROW: STATS + LANGUAGES -->
+  <table>
+    <tr>
+      <td>
+        <img 
+          src="https://github-readme-stats.vercel.app/api?username=Monahassan02&show_icons=true&theme=tokyonight"
+          height="180"
+        />
+      </td>
+      <td>
+        <img 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monahassan02&layout=compact&theme=tokyonight"
+          height="180"
+        />
+      </td>
+    </tr>
+  </table>
 
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monahassan02&layout=compact&theme=tokyonight"
-  height="180"
-/>
+  <!-- STREAK UNDER THEM -->
+  <br/>
 
-<br>
-
-<img 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Monahassan02&theme=tokyonight"
-  height="180"
-/>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Monahassan02&theme=tokyonight"
+    height="180"
+  />
 
 </div>
-
-
 ## 📫 Connect With Me
 
 <p align="center">

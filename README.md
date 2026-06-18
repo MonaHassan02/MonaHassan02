@@ -11,11 +11,13 @@
   </a>
 </h3>
 
-
 ## 👩‍💻 About Me
-<table>
-<tr>
-<td width="60%">
+
+<div align="center">
+  <img src="./assets/download.gif" width="250" alt="coding gif"/>
+</div>
+
+<br/>
 
 <p>🧩 Dedicated Frontend Developer with a strong interest in creating clean, responsive, and interactive user interfaces that provide great user experiences.</p>
 
@@ -29,18 +31,9 @@
 
 <p>🤝 Eager to collaborate on impactful projects and contribute to innovative development teams.</p>
 
-</td>
+ 
 
-<td width="40%" align="center">
-  <img 
-    src="./assets/download.gif"
-    width="300"
-    alt="coding girl"
-  />
-</td>
 
-</tr>
-</table>
 
 
 ## 🛠️ Tech Stack

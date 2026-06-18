@@ -58,25 +58,17 @@
 
 <div align="center">
 
-  <!-- TOP ROW: STATS + LANGUAGES -->
-  <table>
-    <tr>
-      <td>
-        <img 
-          src="https://github-readme-stats.vercel.app/api?username=Monahassan02&show_icons=true&theme=tokyonight"
-          height="180"
-        />
-      </td>
-      <td>
-        <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monahassan02&layout=compact&theme=tokyonight"
-          height="180"
-        />
-      </td>
-    </tr>
-  </table>
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=Monahassan02&show_icons=true&theme=tokyonight"
+      height="180"
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monahassan02&layout=compact&theme=tokyonight"
+      height="180"
+    />
+  </div>
 
-  <!-- STREAK UNDER THEM -->
   <br/>
 
   <img 

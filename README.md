@@ -58,25 +58,21 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-  <div style="display: flex; justify-content: center; gap: 80px; flex-wrap: wrap;">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=Monahassan02&show_icons=true&theme=tokyonight"
-      height="180"
-    />
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monahassan02&layout=compact&theme=tokyonight"
-      height="180"
-    />
-  </div>
-
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Monahassan02&show_icons=true&theme=tokyonight"
+        height="180" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monahassan02&layout=compact&theme=tokyonight"
+        height="180" />
+      </td>
+    </tr>
+  </table>
   <br/>
-
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Monahassan02&theme=tokyonight"
-    height="180"
-  />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Monahassan02&theme=tokyonight"
+  height="180" />
 </div>
 
 ## 📫 Connect With Me

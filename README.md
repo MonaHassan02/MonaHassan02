@@ -13,11 +13,7 @@
 
 ## 👩‍💻 About Me
 
-<div align="center">
-  <img src="./assets/download.gif" width="250" alt="coding gif"/>
-</div>
-
-<br/>
+<img src="./assets/download.gif" width="250" align="right" alt="coding gif"/>
 
 <p>🧩 Dedicated Frontend Developer with a strong interest in creating clean, responsive, and interactive user interfaces that provide great user experiences.</p>
 

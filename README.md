@@ -13,34 +13,16 @@
 
 
 ## 👩‍💻 About Me
-<table>
-<tr>
-<td width="60%">
+<img width="40%" align="right" alt="Profile Image" src="./assets/download.gif"/>
 
-<p>🧩 Dedicated Frontend Developer with a strong interest in creating clean, responsive, and interactive user interfaces that provide great user experiences.</p>
-
-<p>🎓 Computer Science & Information Technology Graduate from the Egyptian E-Learning University (2024).</p>
-
-<p>🚀 Completed the Digital Egypt Pioneers Initiative (DEPI) Full Stack .NET Training.</p>
-
-<p>💻 Passionate about building modern, responsive, and user-friendly web applications.</p>
-
-<p>🌱 Currently improving my skills in Frontend Development, Full Stack Development, and Software Engineering.</p>
-
-<p>🤝 Eager to collaborate on impactful projects and contribute to innovative development teams.</p>
-
-</td>
-
-<td width="40%" align="center">
-  <img 
-    src="./assets/download.gif"
-    width="300"
-    alt="coding girl"
-  />
-</td>
-
-</tr>
-</table>
+<!-- Text content on the left -->
+<p align="left">
+ - 🧩 I'm Frontend Developer with a strong interest in creating clean, responsive, and interactive user interfaces<br><br>
+ - 🎓 Computer Science & Information Technology Graduate .<br><br>  
+ - 🚀 Completed the Digital Egypt Pioneers Initiative (DEPI) Full Stack .NET Training.<br><br>
+ - 💻 Passionate about building modern, responsive, and user-friendly web applications.<br><br>
+ - 🌱 Currently improving my skills in Frontend Development, Full Stack Development, and Software Engineering.<br><br>
+ - 🤝 Eager to collaborate on impactful projects and contribute to innovative development teams. />
 
 
 ## 🛠️ Tech Stack

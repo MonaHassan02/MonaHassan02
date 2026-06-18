@@ -1,4 +1,4 @@
-<h1 align="center">
+ <h1 align="center">
   Hi, I'm Mona Hassan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 </h1>
 
@@ -11,9 +11,11 @@
   </a>
 </h3>
 
-## 👩‍💻 About Me
 
-<img src="./assets/download.gif" width="250" align="right" alt="coding gif"/>
+## 👩‍💻 About Me
+<table>
+<tr>
+<td width="60%">
 
 <p>🧩 Dedicated Frontend Developer with a strong interest in creating clean, responsive, and interactive user interfaces that provide great user experiences.</p>
 
@@ -27,9 +29,18 @@
 
 <p>🤝 Eager to collaborate on impactful projects and contribute to innovative development teams.</p>
 
- 
+</td>
 
+<td width="40%" align="center">
+  <img 
+    src="./assets/download.gif"
+    width="300"
+    alt="coding girl"
+  />
+</td>
 
+</tr>
+</table>
 
 
 ## 🛠️ Tech Stack

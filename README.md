@@ -53,11 +53,10 @@
         <td><img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio,postman"/></td>
     </tr>
 </table>
+
 ## 📊 GitHub Stats
-
 <div align="center">
-
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <div style="display: flex; justify-content: center; gap: 70px; flex-wrap: wrap;">
     <img 
       src="https://github-readme-stats.vercel.app/api?username=Monahassan02&show_icons=true&theme=tokyonight"
       height="180"
